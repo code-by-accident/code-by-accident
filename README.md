@@ -110,23 +110,6 @@ class Vladyslav:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=code-by-accident&show_icons=true&bg_color=0d1117&title_color=8b949e&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&count_color=58a6ff&hide_border=true&border_radius=5&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=code-by-accident&layout=compact&bg_color=0d1117&title_color=8b949e&text_color=8b949e&hide_border=true&border_radius=5&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tomashevskyi-Vladyslav&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
----
-
 ## 🏆 Highlights
 
 | | |
@@ -139,6 +122,6 @@ class Vladyslav:
 
 <div align="center">
 
-*Open to remote backend / fullstack roles · Available for freelance*
+*Open to remote backend / fullstack roles*
 
 </div>
