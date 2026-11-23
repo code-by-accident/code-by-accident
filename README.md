@@ -114,8 +114,8 @@ class Vladyslav:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tomashevskyi-Vladyslav&show_icons=true&bg_color=0d1117&title_color=8b949e&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&count_color=58a6ff&hide_border=true&border_radius=5&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tomashevskyi-Vladyslav&layout=compact&bg_color=0d1117&title_color=8b949e&text_color=8b949e&hide_border=true&border_radius=5&langs_count=6" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=code-by-accident&show_icons=true&bg_color=0d1117&title_color=8b949e&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&count_color=58a6ff&hide_border=true&border_radius=5&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=code-by-accident&layout=compact&bg_color=0d1117&title_color=8b949e&text_color=8b949e&hide_border=true&border_radius=5&langs_count=6" />
 
 </div>
 
